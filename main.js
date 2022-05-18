@@ -54,7 +54,7 @@ else {
 	otherkey();
 	document.getElementById("d1").innerHTML = "You pressed symbol or other key";
 }
-
+}
 
 
 function aplhabetkey() {
